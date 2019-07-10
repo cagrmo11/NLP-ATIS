@@ -18,3 +18,9 @@ AtisAnalysis.ipynb
 ## Preprocessing Functions
 
 - preprocessing.py
+
+## Data Sets
+
+- train.iob
+- test.iob
+- Note: Make sure these files are in the same folder the rest of the code is being executed from
