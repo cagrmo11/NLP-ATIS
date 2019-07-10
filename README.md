@@ -14,6 +14,7 @@ AtisAnalysis.ipynb
 
 - model.py: Model creation with no analysis, creates AtisIntentModel.pmml
 - Use nb_model.load("AtisIntentModel") to use model in other applications.
+- Execute `python model.py` from terminal to create pmml
 
 ## Preprocessing Functions
 
